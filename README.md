@@ -70,3 +70,6 @@ Robot r = new Robot();
 String json = "{"Robot":{"pos":"","value":"","id":"","src":"","dest":"","speed":""}}";
 r.initRobot(json);
 ```
+
+**KML**
+[](https://media.giphy.com/media/MXdpxEZ5MQehYhi3lj/giphy.gif)
