@@ -47,7 +47,7 @@ Manual_client client =new Manual_client(level,authomatic); // level = [0,23], tr
 
 ![](https://im2.ezgif.com/tmp/ezgif-2-34cd0040db48.gif)
 
-
+**<h2>To run JUNIT tests, add JUNIT 5 please remove junit 5 from modulePath and add junit 5 to class path. Github do not update this change...
 
 
 <h3>Examples</h3>
